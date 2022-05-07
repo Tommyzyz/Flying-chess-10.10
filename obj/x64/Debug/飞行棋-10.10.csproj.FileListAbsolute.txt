@@ -1,0 +1,7 @@
+C:\Users\TOMMY\Desktop\C#\飞行棋-10.10\obj\x64\Debug\飞行棋-10.10.csproj.AssemblyReference.cache
+C:\Users\TOMMY\Desktop\C#\飞行棋-10.10\obj\x64\Debug\飞行棋-10.10.csproj.CoreCompileInputs.cache
+C:\Users\TOMMY\Desktop\C#\飞行棋-10.10\bin\x64\Debug\飞行棋-10.10.exe.config
+C:\Users\TOMMY\Desktop\C#\飞行棋-10.10\bin\x64\Debug\飞行棋-10.10.exe
+C:\Users\TOMMY\Desktop\C#\飞行棋-10.10\bin\x64\Debug\飞行棋-10.10.pdb
+C:\Users\TOMMY\Desktop\C#\飞行棋-10.10\obj\x64\Debug\飞行棋-10.10.exe
+C:\Users\TOMMY\Desktop\C#\飞行棋-10.10\obj\x64\Debug\飞行棋-10.10.pdb
